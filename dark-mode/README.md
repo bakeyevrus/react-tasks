@@ -16,6 +16,7 @@ None
 - When in Dark mode:
   - The button icon should be `faSun`
   - The button icon colour should be `(#FFA500)`. You can use the `color` prop on the `Icon` component.
+- Ensure the transition between colour schemes is smooth
 
 &nbsp;
 # Think about 💡

@@ -1,3 +1,4 @@
+import { DarkModeContextProvider } from '../../DarkModeContext';
 export default function App({ children }) {
-  return children;
+  return <DarkModeContextProvider>{children}</DarkModeContextProvider>;
 }
